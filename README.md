@@ -1,1 +1,1 @@
-# ex.-test-repo
+# test-repo
